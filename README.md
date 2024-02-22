@@ -6,21 +6,25 @@ I love building projects and tools that benefit the community. Whether it's a si
 
 ## Join me on my coding journey:
 
-- **YouTube:** https://www.youtube.com/@zeroxydev
-- **Twitter:** https://twitter.com/zeroxydev
+* **YouTube:** https://www.youtube.com/@zeroxydev
+* **Twitter:** https://twitter.com/zeroxydev
 
 ## Are you as passionate about coding as I am? Let's connect and build something awesome together! ✨
 
 ### Here are some things you can find on my YouTube channel:
 
-- Programming tutorials
-- Tips and tricks to improve your coding skills
-- Open-source projects I'm working on
-- And much more!
+* Programming tutorials
+* Tips and tricks to improve your coding skills
+* Open-source projects I'm working on
+* And much more!
 
 ### Feel free to subscribe to my channel and follow me on Twitter to stay up-to-date with my latest projects.
 
 ### 📹 Last videos on my [YouTube channel](https://youtube.com/@zeroxydev?sub_confirmation=1)
+
+<a href='https://youtu.be/QCAAxuvpCiQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QCAAxuvpCiQ/mqdefault.jpg' alt='[FREE] Airbus Takeoff Performance Calculator | FlyByWire A320 Performance Calculator for MSFS 2020' />
+</a>
 
 <!-- ACKNOWLEDGMENTS -->
 
