@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 
 import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
 
-const YOUTUBE_ZEROXYDEV_CHANNEL_PLAYLIST_ID = 'PLZdYOwl1NMadBy2JAW_X57ev7J2rAlo3F'
+const YOUTUBE_ZEROXYDEV_CHANNEL_PLAYLIST_ID = 'PLZdYOwl1NMae2aZ14oBAjgM2Fp9rny4Al'
 
 const {
 /*   INSTAGRAM_API_KEY, */
