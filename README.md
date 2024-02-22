@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there! I'm zeroxydev
 
-<!--
-**ZeroxyDev/zeroxydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Coding has been my playground ever since I was a kid.
 
-Here are some ideas to get you started:
+I love building projects and tools that benefit the community. Whether it's a simple script or a complex open-source project, I find immense joy in sharing my knowledge and skills with the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Join me on my coding journey:
+
+* **YouTube:** https://www.youtube.com/@zeroxydev
+* **Twitter:** https://twitter.com/zeroxydev
+
+## Are you as passionate about coding as I am? Let's connect and build something awesome together! ✨
+
+### Here are some things you can find on my YouTube channel:
+
+* Programming tutorials
+* Tips and tricks to improve your coding skills
+* Open-source projects I'm working on
+* And much more!
+
+### Feel free to subscribe to my channel and follow me on Twitter to stay up-to-date with my latest projects.
+
+### 📹 Last videos on my [YouTube channel](https://youtube.com/@zeroxydev?sub_confirmation=1)
+
+<a href='https://www.youtube.com/watch?v=QCAAxuvpCiQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QCAAxuvpCiQ/mqdefault.jpg' alt='[FREE] Airbus Takeoff Performance Calculator | FlyByWire A320 Performance Calculator for MSFS 2020
+' />
+</a>
