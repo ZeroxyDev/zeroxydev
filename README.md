@@ -1,6 +1,6 @@
-# Hi there! I'm zeroxydev
+# I'm zeroxydev
 
-## Coding has been my playground ever since I was a kid.
+## Coding and design has been my playground ever since I was a kid.
 
 I love building projects and tools that benefit the community. Whether it's a simple script or a complex open-source project, I find immense joy in sharing my knowledge and skills with the world.
 
