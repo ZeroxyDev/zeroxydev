@@ -1,6 +1,6 @@
-# I'm zeroxydev
+# Hi there! I'm zeroxydev
 
-## Coding and design has been my playground ever since I was a kid.
+## Coding has been my playground ever since I was a kid.
 
 I love building projects and tools that benefit the community. Whether it's a simple script or a complex open-source project, I find immense joy in sharing my knowledge and skills with the world.
 
@@ -24,6 +24,9 @@ I love building projects and tools that benefit the community. Whether it's a si
 
 <a href='https://youtu.be/QCAAxuvpCiQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QCAAxuvpCiQ/mqdefault.jpg' alt='[FREE] Airbus Takeoff Performance Calculator | FlyByWire A320 Performance Calculator for MSFS 2020' />
+</a>
+<a href='https://youtu.be/HP1VxtJNKGY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HP1VxtJNKGY/mqdefault.jpg' alt='The BEST ENCOUNTER COUNTER for PokeMMO in 2025 | MonTally' />
 </a>
 
 <!-- ACKNOWLEDGMENTS -->
