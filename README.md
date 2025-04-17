@@ -28,6 +28,9 @@ I love building projects and tools that benefit the community. Whether it's a si
 <a href='https://youtu.be/HP1VxtJNKGY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HP1VxtJNKGY/mqdefault.jpg' alt='The BEST ENCOUNTER COUNTER for PokeMMO in 2025 | MonTally' />
 </a>
+<a href='https://youtu.be/HPw0kuxm-LU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HPw0kuxm-LU/mqdefault.jpg' alt='How to Create & Publish a Custom MonTally Theme for PokeMMO counter (2025 Guide) | Best Shiny Count' />
+</a>
 
 <!-- ACKNOWLEDGMENTS -->
 
