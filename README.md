@@ -1,39 +1,44 @@
-# Hi there! I'm zeroxydev
+# zeroxydev
 
-## Coding has been my playground ever since I was a kid.
+I am a CTO, Software Architect, and Software Engineer.
 
-I love building projects and tools that benefit the community. Whether it's a simple script or a complex open-source project, I find immense joy in sharing my knowledge and skills with the world.
+My journey into technology started when I was 8 years old, the day I received my first laptop. From that moment on, I began exploring, experimenting, breaking things, and rebuilding them to understand how they worked. What started as curiosity quickly became obsession, and eventually a profession.
 
-## Join me on my coding journey:
+I have been programming since my early teens and have gone through every stage of the engineering lifecycle: small scripts, automation tools, community utilities, open-source projects, complex systems, distributed architectures, and technical leadership. Today, my primary focus is designing scalable systems, making high-impact technical decisions, and building software that is robust, maintainable, and well-engineered.
 
-* **YouTube:** https://www.youtube.com/@zeroxydev
-* **Twitter:** https://twitter.com/zeroxydev
+For me, programming is not just writing code. It is about designing systems that remain correct, scalable, and understandable over time.
 
-## Are you as passionate about coding as I am? Let's connect and build something awesome together! ✨
+---
 
-### Here are some things you can find on my YouTube channel:
+## What I Do
+
+* CTO leading technical strategy and product direction
+* Software architecture focused on scalability, performance, and long-term maintainability
+* Software engineering with strong emphasis on clean code, solid design principles, and system integrity
+* Building tools and products that provide real value to specific communities
+
+---
+
+## Content & Projects
+
+On my YouTube channel, I share practical, real-world development work and tools I build:
 
 * Programming tutorials
-* Tips and tricks to improve your coding skills
-* Open-source projects I'm working on
-* And much more!
+* Technical deep dives
+* Engineering workflows and system design decisions
+* Specialized tools (e.g., flight simulation performance calculators, community utilities, and custom software projects)
+* Open-source development
 
-### Feel free to subscribe to my channel and follow me on Twitter to stay up-to-date with my latest projects.
+I focus on building things that are technically sound and genuinely useful.
 
-### 📹 Last videos on my [YouTube channel](https://youtube.com/@zeroxydev?sub_confirmation=1)
+---
 
-<a href='https://youtu.be/QCAAxuvpCiQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QCAAxuvpCiQ/mqdefault.jpg' alt='[FREE] Airbus Takeoff Performance Calculator | FlyByWire A320 Performance Calculator for MSFS 2020' />
-</a>
-<a href='https://youtu.be/HP1VxtJNKGY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HP1VxtJNKGY/mqdefault.jpg' alt='The BEST ENCOUNTER COUNTER for PokeMMO in 2025 | MonTally' />
-</a>
-<a href='https://youtu.be/HPw0kuxm-LU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HPw0kuxm-LU/mqdefault.jpg' alt='How to Create & Publish a Custom MonTally Theme for PokeMMO counter (2025 Guide) | Best Shiny Count' />
-</a>
+## Connect
 
-<!-- ACKNOWLEDGMENTS -->
+YouTube
+[https://www.youtube.com/@zeroxydev](https://www.youtube.com/@zeroxydev)
 
-## Acknowledgments
+Twitter (X)
+[https://twitter.com/zeroxydev](https://twitter.com/zeroxydev)
 
-- [MiduDev (automatic readme)](https://github.com/midudev/midudev/tree/master)
+If you are serious about building meaningful, well-designed software, feel free to connect.
